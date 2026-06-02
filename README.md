@@ -1,6 +1,7 @@
 # 💫 About Me
 
 I am a passionate **Full-Stack Developer** and **SecOps / System Administrator** based in Nice, France. With 7 years of self-taught programming experience combined with a strong military background in critical infrastructure security, I build resilient, high-performance, and secure software architecture.
+</table> <p>&nbsp;</p>
 
 # 💻 Tech Stack
 
@@ -12,6 +13,7 @@ I am a passionate **Full-Stack Developer** and **SecOps / System Administrator**
 
 ### 🚀 Frameworks & Tools
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+</table> <p>&nbsp;</p>
 
 # 🎮 Why Minecraft Ecosystem for Core Java?
 
@@ -21,7 +23,7 @@ Most of my public repositories are focused on the Minecraft ecosystem. While it 
 * **Security & Anti-Cheat:** Built advanced custom obfuscation tools and injection detection mechanisms.
 
 *(Note: Most of my corporate web application and enterprise infrastructure codebases are kept in private repositories for security and legal reasons).*
-
+</table> <p>&nbsp;</p>
 
 # 📊 GitHub Stats
 
