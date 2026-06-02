@@ -33,6 +33,6 @@ Most of my public repositories are focused on the Minecraft ecosystem. While it 
 
 <p align="right">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=Narusell&icon=0&color=0" alt="Views" />
+    <img src="https://komarev.com/ghpvc/?username=Narusell&icon=0&color=6DB33F" alt="Views" />
   </a>
 </p>
